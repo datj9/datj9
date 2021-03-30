@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding, research new technologies
 - 🌱 I’m currently learning Kubernetes, microservice
 - 💞️ I’m looking to collaborate on back-end development
-- 📫 How to reach me:
+- 📫 How to reach me?
     Email: tandat198@gmail.com
 
 <!---
